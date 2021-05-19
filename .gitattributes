@@ -1,0 +1,1 @@
+vendor/priv-app/burial8/burial8.apk filter=lfs diff=lfs merge=lfs -text
