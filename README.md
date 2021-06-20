@@ -3,3 +3,4 @@ G-cam Burial 8 mod app for Begonia
 
 For build, add to *.mk
 ```$(call inherit-product, vendor/burial8/config.mk)```
+and add Git LFS: ```sudo apt-get install git-lfs```
